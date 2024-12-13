@@ -1,7 +1,7 @@
 <h1>VLAN Segmentaion & OSPF Routing Protocol</h1>
 
 <h2>Description</h2>
-This Project is about configure VLAN, Routing between VLANs, Creating SVI for the intern VLAN, with the use of OSPF for dynamic routing protocol and the end testing the network connectivity. Furthermore i will use for this lab the following devices: -> 2 Router ( Layer 3 Devices ), 2 Multiplayer Switches ( Layer 3 Capable), 4 Access Switches ( Layer 2 ), 8 PCs and 2 Servers. 
+This Project is about configure VLAN, Routing between VLANs, Creating SVI for the intern VLAN, with the use of OSPF for dynamic routing protocol and the end testing the network connectivity. Furthermore i will use for this lab the following devices: -> 2 Routers ( Layer 3 Devices ), 2 Multiplayer Switches ( Layer 3 Capable), 4 Access Switches ( Layer 2 ), 8 PCs and 2 Servers. 
 <br />
 
 
@@ -14,11 +14,11 @@ This Project is about configure VLAN, Routing between VLANs, Creating SVI for th
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Configuration walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Network Diagram: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/kDq9O7S)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
