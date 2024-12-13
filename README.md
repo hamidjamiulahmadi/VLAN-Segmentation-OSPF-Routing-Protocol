@@ -18,7 +18,7 @@ This Project is about configure VLAN, Routing between VLANs, Creating SVI for th
 
 <p align="center">
 Network Diagram: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/kDq9O7S)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bmHnm4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
