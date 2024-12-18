@@ -24,7 +24,7 @@ Trunk port configuration: <br/>
 next step, i will configure the VLAN departments as you saw on the diagram.
 <p align="center">
 VLAN 10,20,30,40 configuration: <br/>
-<img src="https://i.imgur.com/XYFhjI5.png" height="80%" width="80%" alt="Lab Step 2"/>
+<img src="https://i.imgur.com/SY5PF9c.png" height="80%" width="80%" alt="Lab Step 2"/>
 <br />
 
 
