@@ -1,7 +1,7 @@
 <h1>VLAN Segmentaion & OSPF Routing Protocol</h1>
 
 <h2>Description</h2>
-This Project is about configure VLAN, Routing between VLANs, Creating SVI for the intern VLAN, with the use of OSPF for dynamic routing protocol and the end testing the network connectivity.in this project i will create 4 departments and connect them with each other through the OSPF routing protocol, Furthermore i will use for this lab the following devices: -> 2 Routers ( Layer 3 Devices ), 2 Multiplayer Switches ( Layer 3 Capable), 4 Access Switches ( Layer 2 ), 8 PCs and 2 Servers. 
+This Project is about configure VLAN, Routing between VLANs, VTP, Creating SVI for the intern VLAN, HSRP for redundancy, with the use of OSPF for dynamic routing protocol and the end testing the network connectivity.in this project i will create 4 departments and connect them with each other through the OSPF routing protocol, Furthermore i will use for this lab the following devices: -> 2 Routers ( Layer 3 Devices ), 2 Multiplayer Switches ( Layer 3 Capable), 4 Access Switches ( Layer 2 ), 8 PCs and 2 Servers. 
 <br />
 
 
@@ -32,10 +32,10 @@ VLAN 10,20,30,40 configuration: <br/>
 <img src="https://i.imgur.com/pjGJIuO.png" height="80%" width="80%" alt="Lab Step 4"/>
 <img src="https://i.imgur.com/UxhouZJ.png" height="80%" width="80%" alt="Lab Step 4"/>
 <br />
-then i will configure the SVI on the distribution switch and then for the time being of lab i will set static ip add PC1 to 10.1 PC2 to 20.1 and server1 30.1 then i will check the connection bitween PCs that they can connect with each other.
+then i will configure the SVI on the distribution switch and then for the time being of lab i will set static ip add PC1 to 10.1, PC2 to 20.1 and server1 to 30.1 then i will check the connection bitween PCs that they can connect with each other.
 <p align="center">
 Creating SVI and check the connection between PCs: <br/>
-<img src="https://i.imgur.com/Hqa85iH.png" height="80%" width="80%" alt="Lab Step 5"/>
+<img src="https://i.imgur.com/OZBCF7m.png" height="80%" width="80%" alt="Lab Step 5"/>
 <img src="https://i.imgur.com/BK9rINj.png" height="80%" width="80%" alt="Lab Step 5"/>
 <br />
 
