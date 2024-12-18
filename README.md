@@ -32,6 +32,12 @@ VLAN 10,20,30,40 configuration: <br/>
 <img src="https://i.imgur.com/pjGJIuO.png" height="80%" width="80%" alt="Lab Step 4"/>
 <img src="https://i.imgur.com/UxhouZJ.png" height="80%" width="80%" alt="Lab Step 4"/>
 <br />
+then i will configure the SVI on the distribution switch and then for the time being of lab i will set static ip add PC1 to 10.1 PC2 to 20.1 and server1 30.1 then i will check the connection bitween PCs that they can connect with each other.
+<p align="center">
+Creating SVI and check the connection between PCs: <br/>
+<img src="https://i.imgur.com/Hqa85iH.png" height="80%" width="80%" alt="Lab Step 5"/>
+<img src="https://i.imgur.com/BK9rINj.png" height="80%" width="80%" alt="Lab Step 5"/>
+<br />
 
 <br />
 
