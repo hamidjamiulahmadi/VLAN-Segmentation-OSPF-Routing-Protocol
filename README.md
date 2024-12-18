@@ -15,13 +15,19 @@ This Project is about configure VLAN, Routing between VLANs, Creating SVI for th
 <p align="center">
 Network Diagram: <br/>
 <img src="https://i.imgur.com/qoojS2r.png" height="80%" width="80%" alt="Lab Step 1"/>
-<br />
- 
+<br /> 
 first i will configue the Trunk port on the distribution layer switch 1 and 2 to transmit data traffic for multiple VLANs
 <p align="center">
 Trunk port configuration: <br/>
 <img src="https://i.imgur.com/padEIOx.png" height="80%" width="80%" alt="Lab Step 2"/>
 <br />
+next step, i will configure the VLAN departments as you saw on the diagram.
+<p align="center">
+VLAN 10,20,30,40 configuration: <br/>
+<img src="https://i.imgur.com/XYFhjI5.png" height="80%" width="80%" alt="Lab Step 2"/>
+<br />
+
+
 <br />
 
 </p>
