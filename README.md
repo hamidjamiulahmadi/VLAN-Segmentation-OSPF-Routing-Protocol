@@ -1,6 +1,6 @@
 <h1>VLAN Segmentaion & OSPF Routing Protocol</h1>
 
-<h2>Description</h2>
+<h2>Goal</h2>
 This Project is about configure VLAN, Routing between VLANs, VTP, Creating SVI for the intern VLAN, HSRP for redundancy, with the use of OSPF for dynamic routing protocol and the end testing the network connectivity.in this project i will create 4 departments and connect them with each other through the OSPF routing protocol, Furthermore i will use for this lab the following devices: -> 2 Routers ( Layer 3 Devices ), 2 Multiplayer Switches ( Layer 3 Capable), 4 Access Switches ( Layer 2 ), 8 PCs and 2 Servers. 
 <br />
 
